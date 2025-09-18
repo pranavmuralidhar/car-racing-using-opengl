@@ -31,8 +31,8 @@ Requirements
 C++ Compiler (GCC / MinGW / MSVC)
 
 Clone this repository:
-git clone https://github.com/your-username/opengl-car-racing.git
-cd opengl-car-racing
+git clone https://github.com/pranavmuralidhar/car-racing-using-opengl.git
+cd car-racing-using-opengl
 
 Compile the project (example with g++ and freeGLUT):
 g++ main.cpp -lfreeglut -lglu32 -lopengl32 -o CarRacing
